@@ -6,8 +6,8 @@ import NextAuthProvider from "@/auth-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Netflix",
-  description: "Netflix clone with Next.js and Tailwind CSS",
+  title: "Webflix",
+  description: "Webflix clone with Next.js and Tailwind CSS",
 };
 
 export default function RootLayout({ children }) {
